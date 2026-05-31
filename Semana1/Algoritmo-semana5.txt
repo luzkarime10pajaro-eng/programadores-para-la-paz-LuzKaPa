@@ -1,0 +1,7 @@
+pregunta: 5 algoritmo 
+paso 1: buscar la informacion: encontrar la noticia o el dato en internet
+paso 2: revisar la fuente: ver que pagina o que persona lo publico para saber si es un sitio serio o un blog inventado
+paso 3: confirmar la noticia: Buscar en Google si otros medios confiables o expertos también están hablando de lo mismo
+paso 4: Validar la fecha: Revisar el año de publicación: a veces compartimos cosas viejas pensando que pasaron hoy
+paso 5: Leer el contenido completo: No quedarse solo con el título llamativo, sino leer todo el texto para entender el contexto real
+paso 6: Ejecutar la acción de compartir: Si todo lo anterior da "verdadero" (es decir, es real y aporta algo bueno), recién ahí darle al botón de compartir
