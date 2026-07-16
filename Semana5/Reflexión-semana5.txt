@@ -1,0 +1,8 @@
+Las APIs podrían ayudar mucho a las comunidades de Cartagena a compartir información de forma organizada.  
+Por ejemplo, si hay una inundación en El Pozón o un robo en el Centro, la gente podría reportarlo desde una app.  
+Esa información se enviaría automáticamente a la Alcaldía, a la Policía y a los vecinos.  
+Así todos sabrían qué está pasando y en qué barrio, sin que se pierdan los mensajes en WhatsApp.  
+También serviría para alertas de lluvias, basuras o problemas con el agua.  
+Con una API los reportes quedarían guardados, ordenados por fecha y lugar.  
+De esta forma la comunidad y las entidades podrían responder más rápido.  
+En resumen, las APIs ayudan a que Cartagena esté mejor conectada y más segura.
