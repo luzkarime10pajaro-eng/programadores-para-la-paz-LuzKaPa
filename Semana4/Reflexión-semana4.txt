@@ -1,0 +1,3 @@
+Es importante porque al ser NodeJs una tecnologia abierta, permite democratizar
+la creacion de soluciones tecnologicas para resolver problemas de la comunidad
+haciendo aprovechamiento de tecnologias de vanguardia
