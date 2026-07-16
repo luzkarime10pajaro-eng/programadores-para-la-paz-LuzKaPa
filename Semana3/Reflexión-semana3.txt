@@ -1,0 +1,7 @@
+Para mí es importante usar Git en los proyectos de software porque nos ayuda a llevar el control de los cambios. 
+Con Git sabemos quién modificó algo y cuándo lo hizo.
+Si nos equivocamos, podemos volver atrás y recuperar una versión anterior.
+También sirve mucho cuando trabajamos en equipo, porque evita que se borre el trabajo de otro.
+Es como tener un historial de todo lo que le pasa al proyecto.
+Además nos sirve de respaldo por si algo se daña.
+En resumen, Git nos da orden y seguridad, y hace que trabajar en equipo sea más fácil.
