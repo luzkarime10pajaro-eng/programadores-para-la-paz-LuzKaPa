@@ -1,0 +1,8 @@
+Repositorio
+Es un elemento básico de un sistema de control de versiones, que contiene todo el código, archivos y el historial de revisiones de cada uno de ellos.  
+
+Commit
+Es una fotografia del estado del proyecto en ese instante. con el estado del proyecto me refiero al contenido de sus archivos, directorios y la estructura que tiene. 
+
+Push
+Esta función nos permite enviar al repositorio remoto, los commits realizados desde el repositorio local.  
