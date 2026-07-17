@@ -1,0 +1,22 @@
+Automatización Simple con n8n y Telegram - Semana 12
+
+Evento que activa la automatización:
+El evento que activa la automatización es el registro de una nueva causa en la plataforma. Cuando un ciudadano crea una causa, se activa el flujo de automatización.
+
+Mensaje que se envía:
+El mensaje enviado a Telegram sería:
+"Nueva causa creada en la plataforma. Revisar y dar seguimiento."
+
+Este mensaje es breve, no contiene información sensible y solo notifica a los coordinadores que hay una nueva causa para revisar.
+
+Información que no debe enviarse por seguridad:
+No debe enviarse por seguridad:
+- Nombres completos de los ciudadanos
+- Documentos de identidad (cédulas, pasaportes)
+- Direcciones específicas
+- Números de teléfono
+- Correos electrónicos personales
+- Datos de geolocalización precisa
+- Cualquier información que permita identificar a una persona
+
+La automatización debe ser de práctica y con información no sensible para proteger la privacidad de los ciudadanos que participan en la plataforma.
