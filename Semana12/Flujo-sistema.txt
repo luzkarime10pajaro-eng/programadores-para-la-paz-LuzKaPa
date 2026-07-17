@@ -1,0 +1,17 @@
+Flujo del Sistema "Petición en 3 Clics" - Semana 12
+
+1. Un ciudadano crea una causa en la plataforma填写 el formulario con título y descripción.
+
+2. La causa queda registrada en la base de datos con todos los datos necesarios.
+
+3. Otros ciudadanos pueden ver las causas disponibles y apoyar las que consideren importantes.
+
+4. El sistema cuenta los apoyos de cada causa y muestra el total.
+
+5. Cuando una causa alcanza un número mínimo de apoyos, el sistema genera un documento PDF con la petición formal.
+
+6. El coordinador recibe una notificación en Telegram con el avance de la causa.
+
+7. La petición generada puede ser descargada y presentada ante las autoridades correspondientes.
+
+Este flujo permite que una comunidad pueda organizar sus demandas de manera estructurada y generar documentos formales sin necesidad de conocimientos técnicos avanzados.
