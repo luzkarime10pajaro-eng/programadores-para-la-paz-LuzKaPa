@@ -1,0 +1,27 @@
+Historias de usuario - Backlog Semana 10
+
+PRIORIDAD ALTA:
+
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+   - Descripción: El ciudadano necesita una forma sencilla de reportar problemas comunitarios.
+   - Criterio de aceptación: El registro se guarda correctamente en el sistema.
+
+2. Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte.
+   - Descripción: El coordinador debe ser notificado automáticamente cuando se registre un nuevo reporte.
+   - Criterio de aceptación: Se envía un mensaje a Telegram con los datos básicos del reporte.
+
+PRIORIDAD MEDIA:
+
+3. Como miembro del equipo quiero consultar reportes para hacer seguimiento.
+   - Descripción: El equipo necesita ver todos los reportes registrados para dar seguimiento.
+   - Criterio de aceptación: Se muestra una lista de reportes con su estado.
+
+4. Como administrador quiero filtrar reportes por tipo para organizar el trabajo.
+   - Descripción: El administrador necesita clasificar los reportes por categoría.
+   - Criterio de aceptación: Se pueden filtrar por tipo de incidencia.
+
+PRIORIDAD BAJA:
+
+5. Como usuario quiero ver estadísticas básicas para entender la situación comunitaria.
+   - Descripción: El usuario necesita ver un resumen de reportes por tipo.
+   - Criterio de aceptación: Se muestra un gráfico o conteo de reportes por categoría.
