@@ -1,0 +1,25 @@
+Automatización Simple con n8n y Telegram - Semana 10
+
+¿Qué evento activa el flujo?
+
+El evento que activa el flujo es el registro de un nuevo reporte o incidencia en la plataforma comunitaria. Cuando un ciudadano envía un reporte a través de la API, se activa la automatización.
+
+¿Qué mensaje se enviaría a Telegram?
+
+El mensaje enviado a Telegram sería:
+"Nuevo reporte recibido. Revisar sistema."
+
+Este mensaje es breve y no contiene información sensible, solo avisa al coordinador que hay un nuevo reporte para revisar.
+
+¿Qué información no debería enviarse por seguridad?
+
+No debería enviarse por seguridad:
+- Nombres completos de los ciudadanos
+- Documentos de identidad (cédulas, pasaportes)
+- Direcciones específicas
+- Números de teléfono
+- Correos electrónicos personales
+- Datos de geolocalización precisa
+- Cualquier información que permita identificar a una persona
+
+La automatización debe ser de práctica y con información no sensible para proteger la privacidad de los ciudadanos.
