@@ -1,0 +1,9 @@
+Autenticación de Usuarios - Semana 11
+
+El login en una aplicación es el proceso mediante el cual un usuario se identifica para acceder a funcionalidades restringidas. A través de un formulario, el usuario ingresa sus credenciales (nombre de usuario y contraseña) que son verificadas por el sistema antes de permitir el acceso.
+
+Algunas rutas deben estar protegidas porque pueden contener información privada, registros internos o acciones que no deberían estar disponibles para cualquier persona. Por ejemplo, las rutas que permiten crear, modificar o eliminar reportes solo deben ser accesibles por usuarios autorizados.
+
+No se deben exponer públicamente contraseñas, documentos de identidad, teléfonos, direcciones, tokens, claves de API ni datos sensibles de la comunidad. Esta información debe estar protegida y solo accesible para usuarios con los permisos adecuados.
+
+La autenticación garantiza que cada usuario acceda solo a las funcionalidades que le corresponden, protegiendo tanto la integridad del sistema como la privacidad de los ciudadanos.
