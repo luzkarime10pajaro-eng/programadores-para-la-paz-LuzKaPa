@@ -1,0 +1,23 @@
+Interfaz Básica - Semana 11
+
+La interfaz de la plataforma comunitaria tendría las siguientes secciones:
+
+1. Formulario para crear una causa:
+   - Campo de título
+   - Campo de descripción
+   - Campo de fecha
+   - Botón para enviar
+
+2. Lista de causas disponibles:
+   - Muestra todas las causas registradas
+   - Incluye título, descripción y fecha de cada causa
+
+3. Botón para apoyar una causa:
+   - Cada causa tendría un botón de "Apoyar"
+   - Al hacer clic, el usuario registra su apoyo
+
+4. Contador de apoyos:
+   - Muestra cuántas personas han apoyado cada causa
+   - Se actualiza automáticamente
+
+La interfaz debe ser clara, sencilla y no debe mostrar información privada de los usuarios. Solo se muestra la información pública de las causas y el conteo de apoyos.
