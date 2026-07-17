@@ -1,0 +1,10 @@
+Al consultar la ruta GET /reportes, el servidor devuelve un JSON con la lista de todos los reportes registrados. Si se ha enviado previamente un reporte mediante POST, aparecerá en la respuesta con su id, tipo y descripción. Por ejemplo:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Esto permite consultar todos los reportes almacenados en memoria del servidor.
