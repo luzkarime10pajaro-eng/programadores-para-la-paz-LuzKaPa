@@ -1,0 +1,23 @@
+Modelo de Datos Simple - Semana 12
+
+Entidad: Causa
+
+Campos principales:
+- id (identificador único)
+- titulo (título de la causa)
+- descripcion (descripción detallada)
+- fecha (fecha de creación)
+
+Propósito:
+Guardar las causas comunitarias que serán visibles en la plataforma. Cada causa representa una problemática o necesidad que los ciudadanos quieren abordar y que será presentada como petición formal.
+
+Entidad: Apoyo
+
+Campos principales:
+- id (identificador único)
+- causa_id (referencia a la causa apoyada)
+- nombre (nombre del ciudadano que apoya)
+- fecha (fecha del apoyo)
+
+Propósito:
+Registrar los apoyos que recibe cada causa para hacer seguimiento a la participación ciudadana. Permite contar cuántas personas apoyan cada causa y determinar cuándo una causa está lista para generar la petición formal.
